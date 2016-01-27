@@ -1,0 +1,22 @@
+{
+  "name": "super-duper",
+  "version": "1.0.0",
+  "description": "A super market list helper built in React & Rails",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarsbe/super-duper.git"
+  },
+  "author": "Jack Callister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarsbe/super-duper/issues"
+  },
+  "homepage": "https://github.com/jarsbe/super-duper",
+  "dependencies": {
+    "react": "^0.12.1",
+    "react-tools": "^0.12.1"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.12.2"
+  }
+}
